@@ -1,0 +1,19 @@
+python
+java
+sql
+mysql
+react
+aws
+docker
+kubernetes
+machine learning
+data analysis
+pandas
+numpy
+excel
+power bi
+tableau
+statistics
+html
+css
+javascript
