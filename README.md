@@ -42,6 +42,12 @@ bash
 pip install -r requirements.txt
 streamlit run app.py
 
+## 📸 Output Screenshot
+![Output](Output1.png)
+![Output](Output2.png)
+![Output](Output3.png)
+
+
 ## 🔮 Future Work
 
 * Integration with Endee database using Docker
